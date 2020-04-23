@@ -1,4 +1,4 @@
-## Project 5 - Cloud Developer Nanodegree
+## Capstone Project - Cloud Developer Nanodegree
 
 Notes:
 
